@@ -1,3 +1,4 @@
 syntax: glob
 a.out
 *.o
+*.xcworkspace
