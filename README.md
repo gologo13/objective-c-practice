@@ -9,3 +9,16 @@ objectivec-tutorial
 - the 5th chapter on Mar. 04, 2013
 - the 6th chapter on Mar. 05, 2013
 - the 7th chapter on Mar. 08, 2013
+- the 8th chapter
+- the 9th chapter
+- the 10th chapter
+- the 11th chapter
+- the 12th chapter
+- the 13th chapter
+- the 14th chapter
+- the 15th chapter
+- the 16th chapter
+- the 17th chapter
+- the 18th chapter
+- the 19th chapter
+- the 20th chapter
