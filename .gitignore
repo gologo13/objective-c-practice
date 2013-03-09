@@ -2,3 +2,4 @@ syntax: glob
 a.out
 *.o
 *.xcworkspace
+.DS_Store
