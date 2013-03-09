@@ -12,7 +12,7 @@ objectivec-tutorial
 - the 8th chapter on Mar. 08, 2013
 - the 9th chapter on Mar. 09, 2013
 - the 10th chapter on Mar. 09, 2013
-- the 11th chapter
+- the 11th chapter on Mar. 10, 2013
 - the 12th chapter
 - the 13th chapter
 - the 14th chapter
