@@ -1,0 +1,15 @@
+(
+    {
+        capacity = 180;
+        mic = 1;
+        projector = (PC, DVD);
+        room = LR501;
+        screen = 1;
+    },
+    {
+        capacity = 45;
+        mic = 0;
+        note = "Chair with table top";
+        screen = 0;
+    }
+)
