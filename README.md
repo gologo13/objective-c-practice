@@ -22,7 +22,7 @@ Objective-C 2.0 Definitive Guide 3rd Edition
 - the 16th chapter. done on Mar. 17, 2013.
 - the 17th chapter. done on Mar. 17, 2013.
 - the 18th chapter. done on Mar. 17, 2013.
-- the 19th chapter
+- the 19th chapter. done on Mar. 20, 2013.
 - the 20th chapter
 
 ## Link
